@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
         <h1>
-        <p>Mi primera aplicación en React</p>
+        <p>Mi primera aplicación</p>
         </h1>
     </div>
   );
